@@ -1,4 +1,4 @@
-# 42header Kurulumu
+# 42 Header Kurulumu
 C projeleri için zorunlu olan header'ı bu doküman ve dosyalar yardımıyla kurabilirsiniz.<br>
 ```vim
 /* ************************************************************************** */

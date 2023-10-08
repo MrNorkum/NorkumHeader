@@ -29,5 +29,5 @@ C projeleri için zorunlu olan header'ı bu doküman ve dosyalar yardımıyla ku
     let g:mail42 = 'kullaniciAdi@student.42kocaeli.com.tr'
 ------------
 
-10-) İşlemi tamamladıktan sonra `:wq` komutu ile terminalden çıkın<br>
-11-) Yeni oluşturduğunuz dosyalara header'ınızı çekmek için `:Baslik` yazıp enterlamalısınız.
+9-) İşlemi tamamladıktan sonra `:wq` komutu ile terminalden çıkın<br>
+10-) Yeni oluşturduğunuz dosyalara header'ınızı çekmek için `:Baslik` yazıp enterlamalısınız.
